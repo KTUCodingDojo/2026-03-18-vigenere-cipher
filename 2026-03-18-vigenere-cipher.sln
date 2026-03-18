@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipher", "VigenereCipher\VigenereCipher.csproj", "{9945E48B-FDBB-4C3A-B240-FD0AF3944BC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VigenereCipher.Tests", "VigenereCipher.Tests\VigenereCipher.Tests.csproj", "{491F765D-D436-483A-85AB-C428059ACA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9945E48B-FDBB-4C3A-B240-FD0AF3944BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9945E48B-FDBB-4C3A-B240-FD0AF3944BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9945E48B-FDBB-4C3A-B240-FD0AF3944BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9945E48B-FDBB-4C3A-B240-FD0AF3944BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491F765D-D436-483A-85AB-C428059ACA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491F765D-D436-483A-85AB-C428059ACA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491F765D-D436-483A-85AB-C428059ACA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491F765D-D436-483A-85AB-C428059ACA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {846EA665-6625-47F6-8D77-E64887153F27}
+	EndGlobalSection
+EndGlobal
